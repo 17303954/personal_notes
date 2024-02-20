@@ -1,1 +1,4 @@
+## useful cmds
 
+        docker run -it --rm dockerinaction/ch3_ex2_hunt
+  
